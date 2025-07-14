@@ -5,7 +5,7 @@ manifest:
   projects:
     - name: zephyr
       url: https://github.com/zephyrproject-rtos/zephyr
-      revision: v3.9.0
+      revision: 81a2b95a7e78217ec0ec0173a0dc9bcc4447ea5e
       import: true
 
     - name: lora_basics_modem
